@@ -5,11 +5,11 @@ Codename: stable
 Version: 1.1
 Architectures: amd64
 Components: main
-Date: Sun, 15 Nov 2026 21:19:45 +0000
+Date: Thu, 03 Dec 2026 00:19:30 +0000
 Description: Official Meykavon OS APT repository
 SHA256:
- 289073b077021885510dda8208759233bdb7d15e22409a3f808f61d7cec5bced              619 main/binary-amd64/Packages
- c9bebb37eebc131c135402114d080f5148ed5e54357b36df7e3377840fc15974              412 main/binary-amd64/Packages.gz
+ 08c03c5bf2ec37f61401547a439f3775c41418e575b09378c75f7d2fb7af2d6d             1238 main/binary-amd64/Packages
+ e3721b6ed67ed4bcd5c4c0a717b0413a05e114054116237ab48b1cc6a257f2f3              524 main/binary-amd64/Packages.gz
 SHA512:
- 73bf163a738744b8b5ed44758140267b019790e77c189f501ce7374a1a20edfb84aabca47e0cf29248df9458b05f228bbc238ba00c1f583af4766431b4e50029              619 main/binary-amd64/Packages
- e225b62d3811e2889f73c3eef96f4f33318afe233c205d6a523ee126e5e34e9fffc78641e58a17c531ca74f909af0e51af5cb376ae0c107ca2c16ee9c4008892              412 main/binary-amd64/Packages.gz
+ fd058384613ec4f5728cb72fcb0beeaf3f541a1dc1960e395cd3ea2d42a988f93f548a7e703269da4c52e381dd8ad681144c57500a7306394e34f55251bd06c8             1238 main/binary-amd64/Packages
+ 002935138e98e2beb1cf30e9d265ca116365ec49d35800b89c214cc6b30cff48989b49f383d7f48b9480529f5539e47eed742b2c7b5ab96a9775684a06fbe0ac              524 main/binary-amd64/Packages.gz
