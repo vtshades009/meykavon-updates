@@ -2,34 +2,33 @@
 Hash: SHA256
 
 Origin: Meykavon OS
-Label: Meykavon OS Official Updates
+Label: Meykavon OS Updates
 Suite: stable
 Codename: stable
 Version: 1.1
 Architectures: amd64
 Components: main
-Date: Thu, 03 Dec 2026 00:19:30 +0000
-Description: Official Meykavon OS APT repository
+Date: Thu, 03 Dec 2026 01:21:10 GMT
 SHA256:
- 08c03c5bf2ec37f61401547a439f3775c41418e575b09378c75f7d2fb7af2d6d             1238 main/binary-amd64/Packages
- e3721b6ed67ed4bcd5c4c0a717b0413a05e114054116237ab48b1cc6a257f2f3              524 main/binary-amd64/Packages.gz
+ 9903443a074f54a6f2746db78f86fd1b64a350c0316a483e41d1d030a6df1675 2021 main/binary-amd64/Packages
+ 959c485bba055040f353c680e43ff1676e9f686b350a9a034963dd3462222a29 865 main/binary-amd64/Packages.gz
 SHA512:
- fd058384613ec4f5728cb72fcb0beeaf3f541a1dc1960e395cd3ea2d42a988f93f548a7e703269da4c52e381dd8ad681144c57500a7306394e34f55251bd06c8             1238 main/binary-amd64/Packages
- 002935138e98e2beb1cf30e9d265ca116365ec49d35800b89c214cc6b30cff48989b49f383d7f48b9480529f5539e47eed742b2c7b5ab96a9775684a06fbe0ac              524 main/binary-amd64/Packages.gz
+ 12fad0a97e1ecc4445ad0b1b2556c24340c4365bcca369c92e9759c48bb41212977bfda895940bcfb6555b20fb482c62be062bf96628c28e0651839ae17442d9 2021 main/binary-amd64/Packages
+ 4cf16311746d0f8947597343962638c6cbf751d07b4b3603249bad77175a4cbba7406fd484b3a90a9c2f74039906d2778b2c0fa958b5767afd54873785615a5a 865 main/binary-amd64/Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEXYET90SEyEGkiTj1d7aLc+N1QR8FAmsQtZkACgkQd7aLc+N1
-QR91oBAAjdkk70NqgHROzDJFglQCeRtQoSKePdd6mffhYQZhMngazXyOKEE0K+Aq
-S9yUkRF+R9wqmbv4yyL9V9Y7Dv3Z8arZ9Xw9X45ZmfLLfeV84LxDN/s5Xcci29AL
-VNPmd77+aPSgGnomlFPGQs0+jOhu5ymW7DKMuuVAPtHqyHEsO+4jid/usmDOIolg
-ISRV3wxXdGEpVh0+W8bmhdKLjYaFfTle5xkFZOnue/NJkvsu8JnXXsyYZU29KI7E
-sSuH1S7qewfEcseARAumlmtRU8faiby/GtsuTwTCqiiv7RZSbaIS00hg0PS8SYoq
-RrynNKGUNt6/alQJjmxFq2X9KpDFcn+GuRnOP+RQCSefy1a81XM3uXebI2+0NF0R
-QxEHCN71pDLLudhgzS5g8dnr259Ee4Hl4081CkYl/I6WTDaaanZ6V1qmlVg44bHb
-M3/c7IcabJ6EWmBDhvDlOQ9xHUm/rAehUPsrH+pPQfk5rUGohCXwSKqjDRrqolIG
-sALvAavIcixTM/bkoVnAPVGEl0sLJ9nQvgc33fNUWEEWke1t1GvbAj8KWCYV5XKs
-1G9aEsAyWF4cqReepha4r3AYhaBdrGZbFhcktKw3cHVPBk6tCnDhXWTJXaAE/lxV
-TUaXhJUUkGldrO1rc0jumIxSKp7EhV1UEzl5ATdpg2XItFehZqA=
-=b/cA
+iQIzBAEBCAAdFiEEXYET90SEyEGkiTj1d7aLc+N1QR8FAmsQxDEACgkQd7aLc+N1
+QR+7Ig/+NGOUiQI4d0AAmmoRWHWImLyla8zmaqxJvQGRyc6+IAPSBn6GWoJXxwzR
+nmv67jQJsPfllldQuft/c5JwDiX5qcbbE+jl3PkUKa+aUAntzISmybXwtYFxdTK+
+WCzNBzAi52TnNPjuER+nz+/2zYIX/COrXLU3qe+UOGKAIvNRbb3OT+EcIvsrgXo+
+vs7rQleTZf0e90fD6RL2P2iC7bxwu/xzU8zoVQjlEeK9qy6GUg6tDyu9ZudGIBkN
++y9bwKlLAs51azifAnireMdW41oAPAT/ZaDXEIeQS201gamGAeR0oWsMZUEhdWcX
+kh210B8Y44FPVrJKmZhiNYfJbWqyoNSyhVsgpYdUD2ZWN9YhoTbH3kQU3TEnfqhs
+Maf9Or3iCRtl2dkpFrbcJyrdPnBPm04lXzMZgX4p9nbbpFUNgbw5I+lArDUTSicl
+QYBsHOTsYEd2ZCi+akyL0KghGO0e1RTI42mxw5gMOo5oeDsxSLzxV1qxDx99uyUq
+1/gGQUZcVVVhGlyNkGZ4LqNaJBDNzfoQUfdJ6uDoOe1gTtiUjheSsXgF7+lbbd4a
+O/CQJw6jJjjr9vVVFnmpfUMvl+mtOEalolCrtzQs19EDnK6AL9hweWefWXoA1axT
+tJE6v5LXgkf7CgALyjG/BbFYgm23KouBoI7Bru7BczTeuzvmOMI=
+=50F7
 -----END PGP SIGNATURE-----

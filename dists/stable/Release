@@ -1,15 +1,14 @@
 Origin: Meykavon OS
-Label: Meykavon OS Official Updates
+Label: Meykavon OS Updates
 Suite: stable
 Codename: stable
 Version: 1.1
 Architectures: amd64
 Components: main
-Date: Thu, 03 Dec 2026 00:19:30 +0000
-Description: Official Meykavon OS APT repository
+Date: Thu, 03 Dec 2026 01:21:10 GMT
 SHA256:
- 08c03c5bf2ec37f61401547a439f3775c41418e575b09378c75f7d2fb7af2d6d             1238 main/binary-amd64/Packages
- e3721b6ed67ed4bcd5c4c0a717b0413a05e114054116237ab48b1cc6a257f2f3              524 main/binary-amd64/Packages.gz
+ 9903443a074f54a6f2746db78f86fd1b64a350c0316a483e41d1d030a6df1675 2021 main/binary-amd64/Packages
+ 959c485bba055040f353c680e43ff1676e9f686b350a9a034963dd3462222a29 865 main/binary-amd64/Packages.gz
 SHA512:
- fd058384613ec4f5728cb72fcb0beeaf3f541a1dc1960e395cd3ea2d42a988f93f548a7e703269da4c52e381dd8ad681144c57500a7306394e34f55251bd06c8             1238 main/binary-amd64/Packages
- 002935138e98e2beb1cf30e9d265ca116365ec49d35800b89c214cc6b30cff48989b49f383d7f48b9480529f5539e47eed742b2c7b5ab96a9775684a06fbe0ac              524 main/binary-amd64/Packages.gz
+ 12fad0a97e1ecc4445ad0b1b2556c24340c4365bcca369c92e9759c48bb41212977bfda895940bcfb6555b20fb482c62be062bf96628c28e0651839ae17442d9 2021 main/binary-amd64/Packages
+ 4cf16311746d0f8947597343962638c6cbf751d07b4b3603249bad77175a4cbba7406fd484b3a90a9c2f74039906d2778b2c0fa958b5767afd54873785615a5a 865 main/binary-amd64/Packages.gz

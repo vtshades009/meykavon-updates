@@ -30,3 +30,20 @@ Description: Official Meykavon OS update repository configuration
  Installs the trusted public signing key and repository configuration
  for receiving official Meykavon OS software updates.
 
+Package: meykavon-security-tools
+Version: 1.0.0
+Architecture: all
+Maintainer: Meykavon OS Team <updates@meykavon.invalid>
+Depends: nmap, wireshark, tcpdump, netcat-openbsd, sqlmap, gobuster, aircrack-ng, john, hashcat, hydra, sherlock, binwalk, foremost, libimage-exiftool-perl, gdb, lynis
+Filename: pool/main/m/meykavon-security-tools/meykavon-security-tools_1.0.0_all.deb
+Size: 920
+MD5sum: 619c4c421fdbc7565a659add6fbdeae7
+SHA1: 03a92de6a7829be75671dbebb771b3a791e982c0
+SHA256: ab63965ea61e54e9766ff08b0aab794c69d85f7d0cf1e3033a9025c5324da3f1
+Section: metapackages
+Priority: optional
+Description: Meykavon OS Cybersecurity Toolkit
+ Collection of network analysis, wireless security,
+ OSINT, password auditing, digital forensics,
+ and system security tools for authorized testing.
+
