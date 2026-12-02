@@ -1,0 +1,16 @@
+Package: meykavon-repo-config
+Version: 1.0.0
+Architecture: all
+Maintainer: Meykavon OS Team <updates@meykavon.invalid>
+Depends: ca-certificates
+Filename: pool/main/m/meykavon-repo-config/meykavon-repo-config_1.0.0_all.deb
+Size: 2248
+MD5sum: 999c9498484d41644acfed0d19dd5728
+SHA1: f064c01b95ef60255a9d5daf7c908e2becc23449
+SHA256: d498c6efc0ded0d5908d25e9d807d1165b7e8dac2a3e80bf23aa3d647a1572f2
+Section: admin
+Priority: optional
+Description: Official Meykavon OS update repository configuration
+ Installs the trusted public signing key and repository configuration
+ for receiving official Meykavon OS software updates.
+

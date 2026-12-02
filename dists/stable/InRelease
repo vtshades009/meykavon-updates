@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Meykavon OS
+Label: Meykavon OS Official Updates
+Suite: stable
+Codename: stable
+Version: 1.1
+Architectures: amd64
+Components: main
+Date: Sun, 15 Nov 2026 21:19:45 +0000
+Description: Official Meykavon OS APT repository
+SHA256:
+ 289073b077021885510dda8208759233bdb7d15e22409a3f808f61d7cec5bced              619 main/binary-amd64/Packages
+ c9bebb37eebc131c135402114d080f5148ed5e54357b36df7e3377840fc15974              412 main/binary-amd64/Packages.gz
+SHA512:
+ 73bf163a738744b8b5ed44758140267b019790e77c189f501ce7374a1a20edfb84aabca47e0cf29248df9458b05f228bbc238ba00c1f583af4766431b4e50029              619 main/binary-amd64/Packages
+ e225b62d3811e2889f73c3eef96f4f33318afe233c205d6a523ee126e5e34e9fffc78641e58a17c531ca74f909af0e51af5cb376ae0c107ca2c16ee9c4008892              412 main/binary-amd64/Packages.gz
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEXYET90SEyEGkiTj1d7aLc+N1QR8FAmr6IiEACgkQd7aLc+N1
+QR/xuxAAiU5F7oPaO29S++D7rLMh6zx5gsRVtjCUbTF2kaUjhEMjRLz6OAEq716C
+hVnI826rd9HTxkIDDSUESLe55tgkZq6ySoiNtJhXLbOeGNIWUHHS3IMGx6W18t6T
+WrxPh8j2rlYvOJ9Q3Tgfongpzeb15Vo+55y6SO6qYd5nfTdm/1RdLH+apq63Ugpy
+W+ynd9qnqGj+um1gJqB0fcIoK9llYAsaTOnCsIERqM0B+b/vOZwhKSbp+xHOVH8s
+3SjYlQQ2S50zLNG1W52hJ6FVB+6a5jpgwUCF2MU1l1p5KKqR3bqvXvMF+K53m/sB
+tAGBxf6qXtqo6BBnGzRYsvwJHLA3mc8wRf7ONYYJsGJ9ygv0KSa4ZfRXTsh0tzoH
+frenunLxpJ2MxD3+WdBwRXYDxa59wYXSKVyBh4PoltxwMOzAh+aDRjSjFmDRCLDz
+ORrHcJJCD5signhlKpwXN8Ewjo6mwcF/dc4sD3gupQneKsqUL2VpJnJI/2Ej/SHu
+swWmgnqlDLls9YwrTSQXZHiUUbq/1HDcAxPaKlJZrEbakTJnfxvmNSM23dlhTT5b
+d7W8T9JivMaQ/iLC6ojttgWYgX3WhCFfEbUSXZHvMDKReEoAaRD716gXwOWH7Ji4
+DwlpdV1kgGVZ8dtvso3EFJFZ6hRgmuI8Wqjuo9pRV/2t2XuRlOY=
+=6lSt
+-----END PGP SIGNATURE-----
